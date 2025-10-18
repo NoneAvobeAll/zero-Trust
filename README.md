@@ -2318,4 +2318,3 @@ This document represents a complete, production-ready deployment guide for ZeroT
 - IT Management
 - Document Control
 
-**Confidentiality Notice:** This document contains proprietary information of Schertech Italy and is intended for internal use only. Unauthorized distribution is prohibited.
